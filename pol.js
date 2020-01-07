@@ -11,7 +11,7 @@
  * @returns {boolean}
  * @function isAlive
  */
-const isAlive = function(dead = false) {
+const isAlive = function(dead=false) {
   return !(dead);
 };
 
