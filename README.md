@@ -2,12 +2,12 @@
 
 ## Deployment Tutorial
 
-### Author: John Cokos
+### Author: David Vloedman
 
 ### Links and Resources
-* [submission PR](https://github.com/tutuorial-401js/class-00)
-* [travis](https://travis-ci.com/tutuorial-401js/class-00)
-* [front-end](https://tutorial-401js.herokuapp.com/)
+* [submission PR](https://github.com/david-vloedman-401-advanced-javascript/deployment-workshop)
+* [travis](https://travis-ci.com/david-vloedman-401-advanced-javascript/deployment-workshop)
+* [front-end](https://serene-bayou-78571.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://tutorial-401js.herokuapp.com/docs)
